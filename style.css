@@ -1,0 +1,18 @@
+*{
+    background: rgb(0, 0, 0);
+}
+img{
+    height: 500px;
+    width: 500px;
+    margin-top: 150px;
+
+}
+
+h1{
+  color: aliceblue;
+}
+button{
+    background: rgba(117, 248, 9, 0.884);
+    width: 150px;
+}
+
